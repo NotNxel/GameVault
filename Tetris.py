@@ -1,4 +1,4 @@
-# GameVault: Tetris
+ # GameVault: Tetris
 # A classic puzzle game where you arrange falling blocks to complete lines and clear the board.
 # Created by: Neel (@NotNxel)
 # GitHub Repository: https://github.com/NotNxel/GameVault
