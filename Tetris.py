@@ -1,8 +1,13 @@
-# GameVault - A Treasure Trove of Minigames  
-# Featuring classics like Russian Roulette, Blackjack, and JoJo-inspired adventures!  
-# Created with passion by Neel (@NotNxel)  
-# Explore more: https://github.com/NotNxel/GameVault  
-# © 2025 Neel. All rights reserved.  
+# GameVault: Tetris
+# A classic puzzle game where you arrange falling blocks to complete lines and clear the board.
+# Created by: Neel (@NotNxel)
+# GitHub Repository: https://github.com/NotNxel/GameVault
+# © 2025 Neel. All rights reserved.
+#
+# In this game, your goal is to rotate and place falling tetrominoes to fill horizontal lines. 
+# As you clear lines, the game speeds up, and the challenge increases. 
+# How many lines can you clear before the blocks pile up?
+
 
 
 import pygame
